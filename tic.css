@@ -36,6 +36,7 @@ body{
   font-size: 1.25rem;
   background-color: white ;
   border-radius: 1rem;
+  margin-bottom: 20px;
 }
 #new-Btn{
     padding: 1rem;
@@ -51,4 +52,15 @@ body{
 }
 .hide{
     display: none;
+}
+.atag{
+    margin-top: 40px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 20px;
+}
+.atag a {
+    text-decoration: none;
+    color: blue;
+    font-size: large;
 }
